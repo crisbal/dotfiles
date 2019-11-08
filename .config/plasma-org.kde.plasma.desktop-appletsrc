@@ -35,20 +35,6 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][2][Applets][21]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][2][Applets][21][Configuration]
-PreloadWeight=34
-
-[Containments][2][Applets][21][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][21][Configuration][General]
-middleClickAction=None
-
 [Containments][2][Applets][23]
 immutability=1
 plugin=org.kde.plasma.kicker
@@ -99,6 +85,10 @@ DialogWidth=720
 [Containments][2][Applets][27][Configuration][General]
 smoothTransitions=true
 
+[Containments][2][Applets][30]
+immutability=1
+plugin=org.kde.plasma.taskmanager
+
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
@@ -122,7 +112,7 @@ DialogWidth=1600
 PreloadWeight=10
 
 [Containments][2][General]
-AppletOrder=23;24;21;27;6;8
+AppletOrder=23;24;30;27;6;8
 
 [Containments][7]
 activityId=
