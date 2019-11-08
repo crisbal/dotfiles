@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Inconsolata', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.menuBarVisibility": "toggle"
+}

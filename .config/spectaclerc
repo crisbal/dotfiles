@@ -1,0 +1,17 @@
+[General]
+copySaveLocation=true
+default-save-image-format=png
+default-save-location[$e]=file:///tmp/
+save-filename-format=Screenshot_%Y%M%D_%H%m%S
+
+[GuiConfig]
+alwaysRememberRegion=false
+compressionQuality=90
+cropRegion=0,0,0,0
+includePointer=true
+printKeyActionRunning=1
+rememberLastRectangularRegion=true
+showMagnifier=false
+useLightMaskColour=false
+useReleaseToCapture=false
+window-position=48,48
