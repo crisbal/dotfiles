@@ -1,0 +1,7 @@
+[user]
+	email = bld.cris.96@gmail.com
+	name = Cristian Baldi
+[core]
+	editor = vim
+[credential]
+	helper = cache --timeout=7200
