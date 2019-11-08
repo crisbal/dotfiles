@@ -2,10 +2,12 @@ ark
 autoconf
 automake
 base
+bat
 bison
 bitwarden-bin
 chromium
 code
+docker
 dolphin-plugins
 enpass-bin
 fakeroot
