@@ -23,3 +23,7 @@ fi
 function precmd() {
     print -Pn "\e]2;%~\a"
 }
+
+alias cat=bat
+alias pacaur=trizen
+alias pacman=trizen
