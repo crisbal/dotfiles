@@ -1,3 +1,4 @@
+aria2
 ark
 autoconf
 automake
@@ -7,6 +8,7 @@ bison
 bitwarden-bin
 chromium
 code
+compton
 docker
 dolphin-plugins
 enpass-bin

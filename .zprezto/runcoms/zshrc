@@ -27,3 +27,5 @@ function precmd() {
 alias cat=bat
 alias pacaur=trizen
 alias pacman=trizen
+alias aria='aria2c -c -x5 -s10 -m2'
+
