@@ -1,4 +1,4 @@
-aria2
+aria
 ark
 autoconf
 automake
@@ -28,7 +28,7 @@ pkgconf
 plasma-meta
 powertop
 ranger
-redshift
+reds3hift
 rofi
 scrot
 spectacle
