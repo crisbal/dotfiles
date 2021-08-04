@@ -1,0 +1,96 @@
+# audio
+alsa-utils
+lib32-pipewire
+pamixer
+pavucontrol
+pipewire
+pipewire-alsa
+pipewire-pulse
+
+# base
+base
+base-devel
+intel-ucode
+linux
+linux-firmware
+xf86-video-vesa
+
+# bluetooth
+blueman
+bluez
+bluez-utils
+
+# browser
+firefox
+google-chrome
+
+# de
+breeze-gtk
+dmenu
+i3-gaps
+i3blocks
+i3lock
+i3status
+lightdm
+lightdm-gtk-greeter
+lxappearance-gtk3
+picom
+rofi
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+xorg
+
+# fonts
+consolas-font
+ttf-hack
+ttf-inconsolata
+
+# network
+dhcp
+iw
+network-manager-applet
+networkmanager
+wpa_supplicant
+
+# other
+flameshot
+gimp
+telegram-desktop
+thunar
+visual-studio-code-bin
+zathura
+zathura-djvu
+zathura-pdf-poppler
+
+# printer
+cups
+hplip
+system-config-printer
+
+# system
+acpi
+light
+ntp
+powertop
+sudo 
+
+# terminal
+rxvt-unicode
+xterm
+z-git
+zsh
+
+# tools
+aria2
+bat
+feh
+git
+htop
+trizen-git
+vi
+vim
+wget
+
+# video
+arandr
+
