@@ -69,6 +69,7 @@ system-config-printer
 
 # system
 acpi
+docker
 light
 ntp
 powertop
