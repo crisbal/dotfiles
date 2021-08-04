@@ -57,10 +57,15 @@ flameshot
 gimp
 telegram-desktop
 thunar
+thunar-volman
+tumbler
+raw-thumbnailer
+redshift
 visual-studio-code-bin
 zathura
 zathura-djvu
 zathura-pdf-poppler
+
 
 # printer
 cups
@@ -73,7 +78,8 @@ docker
 light
 ntp
 powertop
-sudo 
+sudo
+gvfs
 
 # terminal
 rxvt-unicode
