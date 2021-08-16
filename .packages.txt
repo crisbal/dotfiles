@@ -8,12 +8,25 @@ pipewire-alsa
 pipewire-pulse
 
 # base
+autoconf
+automake
 base
-base-devel
+binutils
+bison
+fakeroot
+flex
+gcc
+groff
 intel-ucode
+libtool
 linux
 linux-firmware
-xf86-video-vesa
+m4
+make
+patch
+pkgconf
+texinfo
+which
 
 # bluetooth
 blueman
@@ -22,7 +35,7 @@ bluez-utils
 
 # browser
 firefox
-google-chrome
+google-chrome#local
 
 # de
 breeze-gtk
@@ -38,10 +51,16 @@ picom
 rofi
 xdg-desktop-portal
 xdg-desktop-portal-gtk
-xorg
+
+# development
+diff-so-fancy
+nodejs
+npm
+rlwrap
+visual-studio-code-bin#local
 
 # fonts
-consolas-font
+consolas-font#local
 ttf-hack
 ttf-inconsolata
 
@@ -53,47 +72,59 @@ networkmanager
 wpa_supplicant
 
 # other
-flameshot
-gimp
-telegram-desktop
-thunar
-thunar-volman
-tumbler
-raw-thumbnailer
-redshift
-visual-studio-code-bin
-zathura
-zathura-djvu
-zathura-pdf-poppler
-
+erlang
+xf86-video-vesa
 
 # printer
 cups
 hplip
 system-config-printer
 
+# software
+darktable
+file-roller
+flameshot
+gimp
+raw-thumbnailer
+redshift
+telegram-desktop
+thunar
+thunar-archive-plugin
+thunar-volman
+tumbler
+wine
+zathura
+zathura-djvu
+zathura-pdf-poppler
+
 # system
 acpi
+acpi_call
 docker
+gvfs
 light
+man-pages
+ntfs-3g
 ntp
 powertop
 sudo
-gvfs
+tlp
 
 # terminal
 rxvt-unicode
 xterm
-z-git
+z-git#local
 zsh
 
 # tools
 aria2
+atool
 bat
 feh
 git
 htop
-trizen-git
+trizen-git#local
+unrar
 vi
 vim
 wget
@@ -101,3 +132,46 @@ wget
 # video
 arandr
 
+# xorg
+xdotool
+xorg-bdftopcf
+xorg-docs
+xorg-font-util
+xorg-fonts-100dpi
+xorg-fonts-75dpi
+xorg-iceauth
+xorg-mkfontscale
+xorg-server
+xorg-server-devel
+xorg-server-xephyr
+xorg-server-xnest
+xorg-server-xvfb
+xorg-sessreg
+xorg-smproxy
+xorg-x11perf
+xorg-xbacklight
+xorg-xcmsdb
+xorg-xcursorgen
+xorg-xdpyinfo
+xorg-xdriinfo
+xorg-xev
+xorg-xgamma
+xorg-xhost
+xorg-xinit
+xorg-xinput
+xorg-xkbevd
+xorg-xkbutils
+xorg-xkill
+xorg-xlsatoms
+xorg-xlsclients
+xorg-xpr
+xorg-xprop
+xorg-xrandr
+xorg-xrefresh
+xorg-xset
+xorg-xsetroot
+xorg-xvinfo
+xorg-xwayland
+xorg-xwd
+xorg-xwininfo
+xorg-xwud
