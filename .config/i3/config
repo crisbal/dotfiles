@@ -185,6 +185,7 @@ bar {
 
 # startup things
 exec --no-startup-id setxkbmap it
+exec --no-startup-id dunst
 exec --no-startup-id feh --bg-fill ~/.config/wallpaper.jpg
 exec --no-startup-id picom --config ~/.config/picom.conf
 exec --no-startup-id nm-applet
