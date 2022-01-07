@@ -50,7 +50,8 @@ lxappearance-gtk3
 picom
 rofi
 xdg-desktop-portal
-xdg-desktop-portal-gtk
+xdg-desktop-portal-gnome
+neofetch
 
 # development
 diff-so-fancy
@@ -85,6 +86,7 @@ darktable
 file-roller
 flameshot
 gimp
+qbittorrent
 raw-thumbnailer
 redshift
 telegram-desktop
@@ -96,6 +98,11 @@ wine
 zathura
 zathura-djvu
 zathura-pdf-poppler
+mattermost-desktop#local
+spotify#local
+zoom#local
+steam
+vlc
 
 # system
 acpi
@@ -123,6 +130,7 @@ bat
 feh
 git
 htop
+nano
 trizen-git#local
 unrar
 vi
