@@ -1,10 +1,16 @@
 {
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Light+",
     "security.workspace.trust.untrustedFiles": "open",
     "editor.fontFamily": "Hack",
     "editor.fontSize": 18,
     "workbench.startupEditor": "none",
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
-    }
+    },
+    "python.sortImports.args": [
+        "--fss"
+    ],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
 }
